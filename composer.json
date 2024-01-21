@@ -1,0 +1,15 @@
+{
+    "name": "vinhphis/oopdemo",
+    "autoload": {
+        "psr-4": {
+            "Vinhphis\\Oopdemo\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "vinhphis",
+            "email": "zephy2882004@gmail.com"
+        }
+    ],
+    "require": {}
+}

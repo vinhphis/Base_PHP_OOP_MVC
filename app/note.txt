@@ -1,0 +1,1 @@
+thư mục app dùng để bảo mật mã nguồn không để cho người ngoài xem được
